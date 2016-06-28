@@ -2287,7 +2287,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #ef5e4a !important;
+				background-color: #7DB5E8 !important;
 			}
 
 			input[type="submit"].special:active,
@@ -3731,9 +3731,9 @@
 	}
 
 	#eqhousing {
-		width: 50px;
+		height: 2em;
 	}
 
 	#realtormls {
-		width: 100px;
+		height: 2em;
 	}

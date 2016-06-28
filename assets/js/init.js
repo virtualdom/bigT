@@ -21,7 +21,7 @@
 			$body = $('body'),
 			$wrapper = $('#page-wrapper'),
 			$banner = $('#banner'),
-			$header = $('#header');
+			$header = $('#scroll-here');
 
 		// Disable animations/transitions until the page has loaded.
 			$body.addClass('is-loading');
